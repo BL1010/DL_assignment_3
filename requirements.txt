@@ -1,0 +1,11 @@
+torch
+torchvision
+torchaudio
+numpy
+tqdm
+nltk
+wandb
+spacy
+gdown
+matplotlib
+pandas
